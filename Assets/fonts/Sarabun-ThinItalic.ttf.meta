@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 690bffc9c798d4d419ddfb4d55409703
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sarabun Thin
+  fontNames:
+  - Sarabun Thin
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 38daeb5e6cf5fe9418d9c5d34f02d391, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

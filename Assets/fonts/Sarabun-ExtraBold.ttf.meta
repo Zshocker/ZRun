@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 82aa4acd882e7f44fa0ee2988241bed3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sarabun ExtraBold
+  fontNames:
+  - Sarabun ExtraBold
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 7d097676280f2bd45a66b75c5e04b1d0, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
